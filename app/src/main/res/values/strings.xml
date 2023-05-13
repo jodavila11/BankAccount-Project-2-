@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BankAccount</string>
+    <string name="no_logs_message">No logs yet, time to make an Account</string>
+</resources>
